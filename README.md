@@ -14,6 +14,7 @@ This project enables PHP developers to use the [eBay API](https://go.developer.e
 
   - [User Guides](http://devbay.net/sdk/guides/) - Getting started guide and in-depth information.
   - [SDK Versions](http://devbay.net/sdk/guides/versions/) - A complete list of each SDK, and the API version they support.
+  - https://www.chrisranjana.com/latestworkportfolio/phpebayapi.html
   - [Sample Project](https://github.com/davidtsadler/ebay-sdk-examples) - Provides several examples of using the SDK.
   - [Google Group](https://groups.google.com/forum/#!forum/ebay-sdk-php) - Join for support with the SDK.
   - [@devbaydotnet](https://twitter.com/devbaydotnet) - Follow on Twitter for announcements of releases, important changes and so on.
